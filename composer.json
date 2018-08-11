@@ -6,5 +6,8 @@
             "name":"András Sipos",
             "email":"info@example.com"
         }
-    ]
+    ],
+    "extra": {
+        "package-xml": "package.xml"
+    }
 }
