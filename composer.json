@@ -1,12 +1,6 @@
 {
     "name": "indrisepos/mymonki-ship2pay",
     "type": "magento-module",
-    "authors":[
-        {
-            "name":"András Sipos",
-            "email":"info@example.com"
-        }
-    ],
     "extra": {
         "package-xml": "package.xml"
     }
